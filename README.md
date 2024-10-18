@@ -16,6 +16,6 @@ Analytical Report on Airbnb dataset : In this case study, I utilized a real-time
                                       Throughout the analysis, I uncovered valuable insights into booking trends, property preferences, and host performance.
                                       you can find this article in the following link: [Analytical_solution_Airbnb](https://github.com/OHMALURI/DATASCIENCE/blob/main/article_AnalyticalSolution_Airbnb_000942201.pdf)
                                       you can find the dataset from the following links: [listing](https://github.com/OHMALURI/DATASCIENCE/blob/main/final%20_listing.csv)
-                                                                                        [bookings](https://github.com/OHMALURI/DATASCIENCE/blob/main/final_calender_b.csv)
+                                                                                       ,  [bookings](https://github.com/OHMALURI/DATASCIENCE/blob/main/final_calender_b.csv)
                                       you can find the powerBI file in the following link: [PowerBIfile](https://github.com/OHMALURI/DATASCIENCE/blob/main/AnalyticalDashboard_airbnb_powerBI.pbix)
                                       
