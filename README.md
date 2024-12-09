@@ -25,7 +25,7 @@ Data driven Report on Airbnb dataset :
 wholesale World cloud architecture:
                                     In this project, I have designed a cloud architecture for Wholesale World, a hypothetical retail company. The architecture uses Lakehouse Architecture to efficiently manage and 
                                     analyze data, incorporating a structured pipeline design and failure strategies.
-                                    You can find the full article explaining the architecture in more detail at the link below:[wholesaleWorld_cloud_architecture]()
+                                    You can find the full article explaining the architecture in more detail at the link below:[wholesaleWorld_cloud_architecture](https://github.com/OHMALURI/DATASCIENCE/blob/main/wholesale%20world%20article%20ohm%20000942201.pdf)
 
 
                                       
