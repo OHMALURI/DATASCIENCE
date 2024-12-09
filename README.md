@@ -18,4 +18,11 @@ Data driven Report on Airbnb dataset : In this case study, I utilized a real-tim
                                       you can find the dataset from the following links: [listing](https://github.com/OHMALURI/DATASCIENCE/blob/main/final%20_listing.csv)
                                                                                        ,  [bookings](https://github.com/OHMALURI/DATASCIENCE/blob/main/final_calender_b.csv)
                                       you can find the powerBI file in the following link: [PowerBIfile](https://github.com/OHMALURI/DATASCIENCE/blob/main/AnalyticalDashboard_airbnb_powerBI.pbix)
+
+
+wholesale World cloud architecture: In this project, I have designed a cloud architecture for Wholesale World, a hypothetical retail company. The architecture uses Lakehouse Architecture to efficiently manage and 
+                                    analyze data, incorporating a structured pipeline design and failure strategies.
+                                    You can find the full article explaining the architecture in more detail at the link below:[wholesaleWorld_cloud_architecture]()
+
+
                                       
